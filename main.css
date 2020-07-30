@@ -5,3 +5,7 @@ h1.title{
 q{
 	color: #6b6b6b;
 }
+div.card-header{
+	font-family: serif, sans-serif;
+	font-size: 2em;
+}
